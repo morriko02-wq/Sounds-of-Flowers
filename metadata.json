@@ -1,0 +1,6 @@
+{
+  "name": "A Letter in the Garden",
+  "description": "A tender interactive garden sanctuary, apology letter, curated playlist, and animated tribute.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
